@@ -1,0 +1,17 @@
+# Escludere l'ambiente virtuale
+venv/
+
+# Escludere file della soluzione di Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+
+# Escludere file di compilazione
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Escludere configurazioni locali e credenziali
+.env
